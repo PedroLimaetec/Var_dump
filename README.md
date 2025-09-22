@@ -1,5 +1,6 @@
 
-<img width="976" height="874" alt="Captura de tela 2025-09-21 205204" src="https://github.com/user-attachments/assets/bd67cb93-1edb-45f9-b062-cc582fc57237" />
+<img width="1723" height="864" alt="Captura de tela 2025-09-21 204704" src="https://github.com/user-attachments/assets/61477d6b-a2d2-465a-a626-68f484095c18" />
+
 
 <img width="1524" height="840" alt="Captura de tela 2025-09-21 205418" src="https://github.com/user-attachments/assets/9837792d-69e6-421a-af41-bd466170386f" />
 
